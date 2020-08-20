@@ -45,7 +45,7 @@ cnames<-c("x","y","z","w")
 m<-matrix(c(1:20),nrow=4,ncol=4,byrow=TRUE,dimnames=list(rnames,cnames))
 print(m)
 
-__# [3] Arrays
+# [3] Arrays
 
 rnames<-c("a","b","c")
 cnames<-c("x","y","z")
